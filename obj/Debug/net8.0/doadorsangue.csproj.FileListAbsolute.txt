@@ -1,0 +1,14 @@
+C:\Users\user\doadorsangue\bin\Debug\net8.0\doadorsangue.exe
+C:\Users\user\doadorsangue\bin\Debug\net8.0\doadorsangue.deps.json
+C:\Users\user\doadorsangue\bin\Debug\net8.0\doadorsangue.runtimeconfig.json
+C:\Users\user\doadorsangue\bin\Debug\net8.0\doadorsangue.dll
+C:\Users\user\doadorsangue\bin\Debug\net8.0\doadorsangue.pdb
+C:\Users\user\doadorsangue\obj\Debug\net8.0\doadorsangue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\doadorsangue\obj\Debug\net8.0\doadorsangue.AssemblyInfoInputs.cache
+C:\Users\user\doadorsangue\obj\Debug\net8.0\doadorsangue.AssemblyInfo.cs
+C:\Users\user\doadorsangue\obj\Debug\net8.0\doadorsangue.csproj.CoreCompileInputs.cache
+C:\Users\user\doadorsangue\obj\Debug\net8.0\doadorsangue.dll
+C:\Users\user\doadorsangue\obj\Debug\net8.0\refint\doadorsangue.dll
+C:\Users\user\doadorsangue\obj\Debug\net8.0\doadorsangue.pdb
+C:\Users\user\doadorsangue\obj\Debug\net8.0\doadorsangue.genruntimeconfig.cache
+C:\Users\user\doadorsangue\obj\Debug\net8.0\ref\doadorsangue.dll
